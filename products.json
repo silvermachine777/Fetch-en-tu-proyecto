@@ -1,0 +1,36 @@
+[{
+        "id": 1,
+        "nombre": "Desodorante natural",
+        "precio": 20000,
+        "img": "/assets/images/product.png",
+        "cantidad": 1
+    },
+    {
+        "id": 2,
+        "nombre": "Aceite esencial de romero",
+        "precio": 25000,
+        "img": "/assets/images/product.png",
+        "cantidad": 1
+    },
+    {
+        "id": 3,
+        "nombre": "Velas aromaticas",
+        "precio": 18000,
+        "img": "/assets/images/product.png",
+        "cantidad": 1
+    },
+    {
+        "id": 4,
+        "nombre": "Detox para la piel",
+        "precio": 10000,
+        "img": "/assets/images/product.png",
+        "cantidad": 1
+    },
+    {
+        "id": 5,
+        "nombre": "Crema de dientes natural",
+        "precio": 15000,
+        "img": "/assets/images/product.png",
+        "cantidad": 1
+    }
+]
